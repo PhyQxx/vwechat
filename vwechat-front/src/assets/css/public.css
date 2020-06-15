@@ -1,0 +1,27 @@
+*{
+  font-family: "幼圆";
+}
+html{
+  height: 100%;
+  overflow-y: overlay;
+}
+body{
+  height: 100%;
+}
+.pointer{
+  cursor: pointer;
+}
+.them-blue{
+  color: #409EFF;
+}
+.them-green{
+  color: #07C160;
+}
+.special-them-blue:hover{
+  color: #409EFF;
+}
+.over-text{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
